@@ -10,4 +10,6 @@ int main() {
  std::cout << *ptr_entier << std::endl;
  // New sans delete : fuite de mémoire de 12 octets.
  int* ptr_tableau = new int[3];
+
+ //jgfjgfj
 }
